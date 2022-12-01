@@ -16,7 +16,7 @@ Deployment
 ⭐️ Show your support
 🙏 Acknowledgements
 ❓ FAQ
-📝 License
+📝 License 
 📖 [microverse-project] 
 Describe your project in 1 or 2 sentences.
 
