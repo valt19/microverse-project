@@ -1,5 +1,5 @@
-# Portfolio:
-Portfolio Project is mandatory to every student at Microverse, and it is one of the product that helps a student to job market.
+# Hello-microverse:
+Hello-microverse Project is mandatory to every student at Microverse, and it is one of the product that helps a student to job market.
 It has the followinf files: a README file, html, css, gitignore, linters
 
 
