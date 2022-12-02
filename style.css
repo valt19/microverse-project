@@ -1,11 +1,8 @@
-body{
-	background-color:white;
-	color: blue;
-	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"
+.body{
+	background-color: rgb(247, 252, 252);
 }
-p{
-	color:blue;
-	margin-top: 0px;
-	margin-bottom: 15px;
-	line-height: 1.4;  
+.section.head{
+	font: 1em sans-serif;
+	text-decoration-color: aquamarine;
+
 }
