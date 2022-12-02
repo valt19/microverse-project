@@ -16,9 +16,9 @@ Clone this repository to your desired folder and run it using a browser.
 To run this project you need a code editor and browser
 
 **Author:**
-  Crispin:
-     github: https://github.com/Bigizi
-     LinkedIn: https://www.linkedin.com/in/bigizi-nduwayo-crispin-74b534227/
+  Trevor:
+     github: https://github.com/valt19
+     LinkedIn: https://www.linkedin.com/in/trevor-odeke
 
 **Contributing:**
 Contributions, issues, and feature requests are welcome!
